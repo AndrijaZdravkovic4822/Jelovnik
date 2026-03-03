@@ -1,5 +1,6 @@
 dorucak
 uzina
+sok
 rucak
 sok
 uzina
